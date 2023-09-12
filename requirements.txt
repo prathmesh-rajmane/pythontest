@@ -1,0 +1,4 @@
+flask
+pandas
+boto3
+numpy
